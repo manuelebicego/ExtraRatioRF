@@ -1,7 +1,7 @@
 # ExtraRatioRF
-Matlab code for computing the ExtraRatioRF distance -- See the file Demo.m
+Code for Paper "ExtraRatioRF: an extremely randomized Random Forest distance", submitted to ECML-PKDD 26
 
-Paper "ExtraRatioRF: an extremely randomized Random Forest distance", submitted to ECML-PKDD 26
+Matlab code for computing the ExtraRatioRF distance -- See the file Demo.m
 
 NOTE: 
 The code requires the Random Forest Clustering library, available from the authors of the competitor RatioRF distance [1] at their web page: 
